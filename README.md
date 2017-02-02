@@ -13,3 +13,15 @@ Copyright (c) 2016-present, Facebook, Inc. All rights reserved.
 `npm start` to start Webpack server. It will open your browser and display the Kitchen Sink.
 
 `npm test` to run tests
+
+## Components
+
+Right now these are the list of components available:
+
+
+- Button
+- Link Button
+- Box
+- Selector
+- Tabs
+- List
