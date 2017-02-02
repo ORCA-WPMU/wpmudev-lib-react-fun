@@ -1,0 +1,15 @@
+#App {
+  width:70%;
+  margin:0 auto;
+  border:1px solid darkgray;
+}
+
+#wpbody {
+  width:80%;
+  margin:0 auto;
+}
+
+.section {
+  clear:both;
+  margin-bottom:30px;
+}
